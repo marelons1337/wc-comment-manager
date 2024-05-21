@@ -1,0 +1,5 @@
+files/
+.env
+.byebug_history
+cacert.pem
+last_product.txt
